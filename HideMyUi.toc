@@ -1,0 +1,6 @@
+## Interface: 100100
+## Title: HideMyUi
+## Author: Bass Rift    
+## Version: 1.0.0
+
+main.lua
